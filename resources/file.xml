@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report number="12345">
+    <salad title="Rainbow">
+        <basic>
+            <ingredient type="Meat">
+                <title>Chicken Hot Legs</title>
+                <animal>Chicken</animal>
+                <bodyPart>Leg</bodyPart>
+                <calories>110</calories>
+                <productionDate>
+                    <year>2018</year>
+                    <month>11</month>
+                    <day>3</day>
+                </productionDate>
+                <validTime valueType="days">15</validTime>
+            </ingredient>
+            <ingredient type="Vegetables">
+                <title>Gherkins</title>
+                <type>Cucumber</type>
+                <productionType>Natural</productionType>
+                <calories>20</calories>
+                <productionDate>
+                    <year>2018</year>
+                    <month>11</month>
+                    <day>7</day>
+                </productionDate>
+                <validTime valueType="days">9</validTime>
+            </ingredient>
+            <ingredient type="Souce">
+                <title>Carbonara Souce</title>
+                <sourness>Medium</sourness>
+                <sweetnes>low</sweetnes>
+                <salty>Medium</salty>
+                <calories>15</calories>
+                <productionDate>
+                    <year>2018</year>
+                    <month>11</month>
+                    <day>6</day>
+                </productionDate>
+                <validTime valueType="days">8</validTime>
+            </ingredient>
+        </basic>
+        <topings>
+            <ingredient type="Meat">
+                <title>Fried ant</title>
+                <animal>and</animal>
+                <bodyPart>body</bodyPart>
+                <calories>300</calories>
+                <productionDate>
+                    <year>2018</year>
+                    <month>11</month>
+                    <day>7</day>
+                </productionDate>
+                <validTime valueType="days">55</validTime>
+            </ingredient>
+        </topings>
+    </salad>
+    <salad title="Mimoza">
+        <basic>
+            <ingredient type="Meat">
+                <title>Wolf Brest</title>
+                <animal>Wolf</animal>
+                <bodyPart>brest</bodyPart>
+                <calories>50</calories>
+                <productionDate>
+                    <year>2018</year>
+                    <month>11</month>
+                    <day>2</day>
+                </productionDate>
+                <validTime valueType="days">15</validTime>
+            </ingredient>
+            <ingredient type="Vegetables">
+                <title>Gherkins</title>
+                <type>Cucumber</type>
+                <productionType>Natural</productionType>
+                <calories>20</calories>
+                <productionDate>
+                    <year>2018</year>
+                    <month>11</month>
+                    <day>6</day>
+                </productionDate>
+                <validTime valueType="days">13</validTime>
+            </ingredient>
+            <ingredient type="Souce">
+                <title>Carbonara Souce</title>
+                <sourness>Medium</sourness>
+                <sweetnes>low</sweetnes>
+                <salty>Medium</salty>
+                <calories>15</calories>
+                <productionDate>
+                    <year>2018</year>
+                    <month>11</month>
+                    <day>7</day>
+                </productionDate>
+                <validTime valueType="days">15</validTime>
+            </ingredient>
+        </basic>
+        <topings>
+            <ingredient type="Meat">
+                <title>Fried bacon</title>
+                <animal>Pig</animal>
+                <bodyPart>Leg</bodyPart>
+                <calories>300</calories>
+                <productionDate>
+                    <year>2018</year>
+                    <month>11</month>
+                    <day>1</day>
+                </productionDate>
+                <validTime valueType="days">1</validTime>
+            </ingredient>
+        </topings>
+    </salad>
+</report>

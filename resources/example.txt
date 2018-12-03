@@ -1,0 +1,60 @@
+salad.Salad {
+Title: Olivie
+salad.ingredients.Meat{title='Chicken Hot Legs', animal='Chicken', bodyPart='Leg', calories=50, createdDate=2018-11-02, validTime=15}
+salad.ingredients.Vegetables{title='Gherkins', type='Cucumber', productionType='Natural', calories=20, createdDate=2018-11-06, validTime=13}
+salad.ingredients.Souce{title='Carbonara Souce', sourness='Medium', sweetness='low', salty='Medium', calories=15, createdDate=2018-11-07, validTime=15}
+Topics: [salad.ingredients.Meat{title='Fried bacon', animal='Pig', bodyPart='Leg', calories=300, createdDate=2018-11-01, validTime=1}]
+Calories: 385
+Salad Valid Time: 1
+And Valid till: 2018-11-02
+}
+salad.Salad {
+Title: Cesar
+salad.ingredients.Meat{title='Chicken Hot Legs', animal='Chicken', bodyPart='Leg', calories=110, createdDate=2018-11-03, validTime=15}
+salad.ingredients.Vegetables{title='Gherkins', type='Cucumber', productionType='Natural', calories=20, createdDate=2018-11-07, validTime=9}
+salad.ingredients.Souce{title='Carbonara Souce', sourness='Medium', sweetness='low', salty='Medium', calories=15, createdDate=2018-11-06, validTime=8}
+Topics: [salad.ingredients.Meat{title='Fried bacon', animal='Pig', bodyPart='Leg', calories=300, createdDate=2018-11-07, validTime=55}]
+Calories: 445
+Salad Valid Time: 9
+And Valid till: 2018-11-16
+}
+salad.Salad {
+Title: Olivie
+salad.ingredients.Meat{title='Chicken Hot Legs', animal='Chicken', bodyPart='Leg', calories=50, createdDate=2018-11-02, validTime=15}
+salad.ingredients.Vegetables{title='Gherkins', type='Cucumber', productionType='Natural', calories=20, createdDate=2018-11-06, validTime=13}
+salad.ingredients.Souce{title='Carbonara Souce', sourness='Medium', sweetness='low', salty='Medium', calories=15, createdDate=2018-11-07, validTime=15}
+Topics: [salad.ingredients.Meat{title='Fried bacon', animal='Pig', bodyPart='Leg', calories=300, createdDate=2018-11-01, validTime=1}]
+Calories: 385
+Salad Valid Time: 1
+And Valid till: 2018-11-02
+}
+salad.Salad {
+Title: Cesar
+salad.ingredients.Meat{title='Chicken Hot Legs', animal='Chicken', bodyPart='Leg', calories=110, createdDate=2018-11-03, validTime=15}
+salad.ingredients.Vegetables{title='Gherkins', type='Cucumber', productionType='Natural', calories=20, createdDate=2018-11-07, validTime=9}
+salad.ingredients.Souce{title='Carbonara Souce', sourness='Medium', sweetness='low', salty='Medium', calories=15, createdDate=2018-11-06, validTime=8}
+Topics: [salad.ingredients.Meat{title='Fried bacon', animal='Pig', bodyPart='Leg', calories=300, createdDate=2018-11-07, validTime=55}]
+Calories: 445
+Salad Valid Time: 9
+And Valid till: 2018-11-16
+}
+salad.Salad {
+Title: Olivie
+salad.ingredients.Meat{title='Chicken Hot Legs', animal='Chicken', bodyPart='Leg', calories=50, createdDate=2018-11-02, validTime=15}
+salad.ingredients.Vegetables{title='Gherkins', type='Cucumber', productionType='Natural', calories=20, createdDate=2018-11-06, validTime=13}
+salad.ingredients.Souce{title='Carbonara Souce', sourness='Medium', sweetness='low', salty='Medium', calories=15, createdDate=2018-11-07, validTime=15}
+Topics: [salad.ingredients.Meat{title='Fried bacon', animal='Pig', bodyPart='Leg', calories=300, createdDate=2018-11-01, validTime=1}]
+Calories: 385
+Salad Valid Time: 1
+And Valid till: 2018-11-02
+}
+salad.Salad {
+Title: Cesar
+salad.ingredients.Meat{title='Chicken Hot Legs', animal='Chicken', bodyPart='Leg', calories=110, createdDate=2018-11-03, validTime=15}
+salad.ingredients.Vegetables{title='Gherkins', type='Cucumber', productionType='Natural', calories=20, createdDate=2018-11-07, validTime=9}
+salad.ingredients.Souce{title='Carbonara Souce', sourness='Medium', sweetness='low', salty='Medium', calories=15, createdDate=2018-11-06, validTime=8}
+Topics: [salad.ingredients.Meat{title='Fried bacon', animal='Pig', bodyPart='Leg', calories=300, createdDate=2018-11-07, validTime=55}]
+Calories: 445
+Salad Valid Time: 9
+And Valid till: 2018-11-16
+}
